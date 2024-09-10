@@ -1,0 +1,26 @@
+body{
+    color: #2152bb;
+}
+li{
+    color: blueviolet;
+}
+
+.first{
+    color:rgb(125, 16, 175)
+}
+
+#second{
+    color: rgb(76, 76, 235);
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+h6{
+    font-size: 20px;
+    text-align: center;
+}
+img{
+    width: 50vw;
+}
